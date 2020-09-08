@@ -1,4 +1,4 @@
-# Flutter Snippets - Lazy Class, MVVM Structure, Http View Model
+# Flutter Snippets - Lazy Class, Base Model, MVVM Structure, Http View Model
 
 	"Create Lazy Class": {
 		"scope": "dart",
